@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "alexstyl"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -97,10 +97,10 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : http://stackoverflow.com/users/1315110/alex-styl
+  stackoverflow    : 1315110/alex-styl
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/alexstyl
+  twitter          : alexstyl
   vine             :
   weibo            :
   xing             :
