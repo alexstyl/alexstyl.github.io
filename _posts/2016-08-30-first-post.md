@@ -1,5 +1,5 @@
 ---
-share: true
+share: false
 ---
 
 ## [3.4.4](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.4)
@@ -7,6 +7,7 @@ share: true
 ### Enhancements
 
 - Add French "comments" related localized UI text. [#472](https://github.com/mmistakes/minimal-mistakes/pull/472)
+- Some other enhancement
 
 ### Bug Fixes
 
