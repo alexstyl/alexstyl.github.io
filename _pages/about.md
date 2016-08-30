@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: single
-excerpt: "Page not found. Your pixels are in another canvas."
+excerpt: "Some info about Alex."
 sitemap: true
 permalink: /about.html
 ---

@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 ## [3.4.4](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.4)
 
 ### Enhancements
