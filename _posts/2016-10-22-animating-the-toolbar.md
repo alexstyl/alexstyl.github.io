@@ -9,7 +9,7 @@ A **tl;dr** version of pure code can be found [here](https://github.com/alexstyl
 
 I have been receiving some user feedback for my app that the feature they are missing the most is _search_. For an app that contains information from different sources such as contact’s events, name days or bank holidays, such as Memento Calendar, I would have to agree that Search is one of the most important features the app could have. The problem is that the feature is already implemented. A search icon in the Toolbar navigates the user to a dedicated search screen. 
 
-![A user can search by tapping the search icon on the Toolbar]()
+![A user can search by tapping the search icon on the Toolbar](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/search_toolbar.png)
 
 I decided to reach out to some of my users to see what the problem really was. After exchanging some emails and having some chats with some lucky users I concluded the following:
 
@@ -27,7 +27,7 @@ As this was my first time playing with Transitions I had some reading to do. I f
 
 A similar effect of what I wanted to achieve can also be found in the [stock Android’s Phone app](https://play.google.com/store/apps/details?id=com.google.android.dialer). As soon as the user taps on the search bar, the current screen fades away, the search bar expands, and the user is ready to start searching. 
 
-![The transition as seen in the Dialer app]()
+![The transition as seen in the Dialer app](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/dialer.gif)
 
 Unfortunately, the implementation of the app is done differently from what I was expecting. [Everything is done in one single activity](http://grepcode.com/file/repository.grepcode.com/java/ext/com.google.android/android-apps/5.1.0_r1/com/android/dialer/DialtactsActivity.java). Even though that could work, I don’t like combining multiple responsibilities together, so that I can be more flexible in updating the design of the app in the future. Even though the implementation wasn’t exactly what I wanted it to be, I got a good idea what my next steps should be. 
 
@@ -46,7 +46,7 @@ Last but not least, we can further polish the transition and make it seem faster
 
 Putting everything together the following result can be achieved:
 
-![The transition as seen in Memento Calendar]()
+![The transition as seen in Memento Calendar](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/memento.gif)
 
 You might be wondering whether this design decision actually had any effect. I’m quite happy with the result as this update brought 30% more searches into the app. This can either mean that it is easier for people to search, or people enjoy the animation 😄
 
