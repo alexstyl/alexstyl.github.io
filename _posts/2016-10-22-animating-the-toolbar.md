@@ -1,6 +1,4 @@
-## Animating the Toolbar
-
-#### Implementing a Dialer Search-like transition
+## Implementing a Dialer Search-like transition
 
 
 
