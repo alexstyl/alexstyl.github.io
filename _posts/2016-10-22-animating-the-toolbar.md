@@ -9,7 +9,7 @@ A **tl;dr** version of pure code can be found [here](https://github.com/alexstyl
 
 I have been receiving some user feedback for my app that the feature they are missing the most is _search_. For an app that contains information from different sources such as contact’s events, name days or bank holidays, such as Memento Calendar, I would have to agree that Search is one of the most important features the app could have. The problem is that the feature is already implemented. A search icon in the Toolbar navigates the user to a dedicated search screen. 
 
-<img src="https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/search_toolbar.png" alt="A user can search by tapping the search icon on the Toolbar" style="width: 800px;"/>
+<img src="https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/search_toolbar.png" alt="A user can search by tapping the search icon on the Toolbar" style="width: 540;"/>
 
 I decided to reach out to some of my users to see what the problem really was. After exchanging some emails and having some chats with some lucky users I concluded the following:
 
