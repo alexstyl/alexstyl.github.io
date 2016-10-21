@@ -34,7 +34,9 @@ Unfortunately, the implementation of the app is done differently from what I was
 I broke down the desired transition into three simple steps:
 
 1) fade out the contents of the toolbar
+
 2) expand the toolbar
+
 3) fade the contents back in 
 
 Those steps can easily be performed with the use of `TransitionManager` class. By a simple call of [`TransitionManager.beginDelayedTransition()`]() and then modifying the properties of the view, the framework will automatically animate the changes done to the view. This can work for both the expansion and collapse of the search bar. The fading is done in the same way, but we are changing the visibility of the views instead. The only thing missing now is how to seamlessly jump to the search activity in a single go.
