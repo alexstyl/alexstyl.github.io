@@ -1,4 +1,4 @@
-## Implementing a Dialer Search-like transition
+## Implementing a Dialer-like Search transition
 
 
 
