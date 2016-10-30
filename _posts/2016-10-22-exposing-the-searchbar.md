@@ -23,7 +23,7 @@ The idea was to create a transition that links two screens together; the home sc
 
 From a design point of view, I wanted the transition to be as seemingness as possible so that the user can focus on searching without having the feeling that they are looking at a new screen. From a developer point of view though, the two screens (Activities) had to stay separate. Each Activity handles their own responsibilities and having to combine them would be a complete nightmare for maintenance purposes.
 
-As this was my first time playing with Transitions I had some reading to do. I found Nick Butcher’s and Nick Weiss’s [_Meaningful motion_ talk](https://skillsmatter.com/skillscasts/6798-meaningful-motion) to be really helpful understanding how the new API works and the slides were (and still are) my go-to cheatsheet for anything Transition related. 
+As this was my first time playing with Transitions I had some reading to do. I found Nick Butcher’s and Ben Weiss’s [_Meaningful motion_ talk](https://skillsmatter.com/skillscasts/6798-meaningful-motion) to be really helpful understanding how the new API works and the slides were (and still are) my go-to cheatsheet for anything Transition related. 
 
 A similar effect of what I wanted to achieve can also be found in the [stock Android’s Phone app](https://play.google.com/store/apps/details?id=com.google.android.dialer). As soon as the user taps on the search bar, the current screen fades away, the search bar expands, and the user is ready to start searching. 
 
@@ -41,7 +41,7 @@ I broke down the desired transition into three simple steps:
 
 Those steps can easily be performed with the use of `TransitionManager` class. By a simple call of [`TransitionManager.beginDelayedTransition()`]() and then modifying the properties of the view, the framework will automatically animate the changes done to the view. This can work for both the expansion and collapse of the search bar. The fading is done in the same way, but we are changing the visibility of the views instead. The only thing missing now is how to seamlessly jump to the search activity in a single go.
 
-Luckily, I remembered seeing something similar being done in one of the Android Developers videos. In the video titled [DevBytes: Custom Activity Animations](https://www.youtube.com/watch?v=CPxkoe2MraA) Cheet Haase showcases how to override the system’s animation when starting or finishing activities. 
+Luckily, I remembered seeing something similar being done in one of the Android Developers videos. In the video titled [DevBytes: Custom Activity Animations](https://www.youtube.com/watch?v=CPxkoe2MraA) Chet Haase showcases how to override the system’s animation when starting or finishing activities. 
 Last but not least, we can further polish the transition and make it seem faster, by showing the keyboard as soon as the Transition starts. A simple way of achieving this is by specifying the right windowSoftInputMode on the application Manifest file. That way the keyboard will be visible while the second activity is started.
 
 ### The end result
