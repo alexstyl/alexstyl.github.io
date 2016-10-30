@@ -1,4 +1,4 @@
-## Πως να υλοποιείτε ένα transition αντίστοιχο του Dialer app
+## Πως υλοποιείτε ένα transition αντίστοιχο του Dialer app
 
 
 
