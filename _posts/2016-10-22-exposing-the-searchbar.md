@@ -53,4 +53,5 @@ A **tl;dr** version of pure code can be found [here](https://github.com/alexstyl
 
 
 This article was featured in [issue #228 of the Android weekly](http://androidweekly.net/issues/issue-228)
+
 It can also be found on [Medium](https://medium.com/@alexstyl/https-medium-com-alexstyl-animating-the-toolbar-7a8f1aab39dd)
