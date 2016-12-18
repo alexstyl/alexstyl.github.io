@@ -1,5 +1,3 @@
-## Working with the Layout Preview
-
 Isn't it annoying when trying to create an Android layout, but the Layout Preview doesn't seem to be working? Some times it is completely empty, or some weird stacktrace gives no clue of what is wrong.
 
 Fear not, as I wrote a blog post exactly for that! Make sure to head over to [the Novoda blog](https://www.novoda.com/blog/layout-preview-101/) to check it out.
