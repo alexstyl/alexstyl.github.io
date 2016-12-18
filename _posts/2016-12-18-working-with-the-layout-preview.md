@@ -6,4 +6,4 @@ Fear not, as I wrote a blog post exactly for that! Make sure to head over to [th
 
 Special thanks go to [Sebastiano](https://www.novoda.com/blog/author/seb/), [Daniele Conti](https://www.novoda.com/blog/author/fourlastor/) and [Daniele Bonaldo](https://www.novoda.com/blog/author/daniele/) for all their help writing the article.
 
-The article got featured in the [#265 issue of Android Weekly](http://androidweekly.net/issues/issue-236)
+The article was featured in [issue #265 of the Android Weekly](http://androidweekly.net/issues/issue-236)
