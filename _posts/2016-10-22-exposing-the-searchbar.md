@@ -1,12 +1,5 @@
 ## Implementing a Dialer-like Search transition
 
-
-
-A **tl;dr** version of pure code can be found [here](https://github.com/alexstyl/Material-SearchTransition)
-
-
-### The problem
-
 I have been receiving some user feedback for my app that the feature they are missing the most is _search_. For an app that contains information from different sources such as contact’s events, name days or bank holidays, such as Memento Calendar, I would have to agree that Search is one of the most important features the app could have. The problem is that the feature is already implemented. A search icon in the Toolbar navigates the user to a dedicated search screen. 
 
 <img src="https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/animating-the-toolbar/search_toolbar.png" alt="A user can search by tapping the search icon on the Toolbar" style="width: 540;"/>
@@ -17,7 +10,6 @@ I decided to reach out to some of my users to see what the problem really was. A
 
 As the search logic was already there in the app, I had the luxury of time to experiment with the animations APIs of the platform and add some liveness into my app. 
 
-### The course of action
 
 The idea was to create a transition that links two screens together; the home screen of the app where the Search bar can be found and the Search screen where the search magic happens. 
 
@@ -43,8 +35,6 @@ Those steps can easily be performed with the use of `TransitionManager` class. B
 
 Luckily, I remembered seeing something similar being done in one of the Android Developers videos. In the video titled [DevBytes: Custom Activity Animations](https://www.youtube.com/watch?v=CPxkoe2MraA) Chet Haase showcases how to override the system’s animation when starting or finishing activities. 
 Last but not least, we can further polish the transition and make it seem faster, by showing the keyboard as soon as the Transition starts. A simple way of achieving this is by specifying the right windowSoftInputMode on the application Manifest file. That way the keyboard will be visible while the second activity is started.
-
-### The end result
 
 Putting everything together the following result can be achieved:
 
