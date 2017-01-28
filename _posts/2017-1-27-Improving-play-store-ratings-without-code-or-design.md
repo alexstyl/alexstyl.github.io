@@ -6,6 +6,6 @@ You can find the talk here (in Greek):
 
 [![youtube link](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/improving_play_store_ratings.png)
 ](http://www.youtube.com/watch?v=8iRThrBQYyk)
-Watch on Youtube: https://youtu.be/8iRThrBQYyk
+[Watch on Youtube](https://youtu.be/8iRThrBQYyk)
 
 the slides are also available on [speakerdeck.com](https://speakerdeck.com/alexstyl/improving-play-store-ratings-without-any-design-or-code)
