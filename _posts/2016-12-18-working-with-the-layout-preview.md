@@ -4,6 +4,6 @@ Fear not, as I wrote a blog post exactly for that! Make sure to head over to [th
 
 ![Android's Layout Preview](https://www.novoda.com/blog/content/images/2016/11/Screen-Shot-2016-11-01-at-12-01-45.png)
 
-Special thanks go to [Sebastiano](https://www.novoda.com/blog/author/seb/), [Daniele Conti](https://www.novoda.com/blog/author/fourlastor/) and [Daniele Bonaldo](https://www.novoda.com/blog/author/daniele/) for all their help writing the article.
+Special thanks go to [Sebastiano Poggi](https://www.novoda.com/blog/author/seb/), [Daniele Conti](https://www.novoda.com/blog/author/fourlastor/) and [Daniele Bonaldo](https://www.novoda.com/blog/author/daniele/) for all their help writing the article.
 
 The article was featured in [issue #265 of the Android Weekly](http://androidweekly.net/issues/issue-236)
