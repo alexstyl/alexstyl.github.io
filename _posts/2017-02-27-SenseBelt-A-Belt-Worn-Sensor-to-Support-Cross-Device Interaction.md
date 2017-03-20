@@ -11,4 +11,4 @@ Mobile interaction is shifting from a single device to simultaneous interaction 
 ](https://www.youtube.com/watch?v=3FOQHoHK34c)
 
 
-You can read the paper by visiting http://jovermeulen.com/uploads/Research/StylianidisVermeulenHoubenMacDonaldBeale_chi-lbw2017.pdf
+You can read the paper by visiting [http://jovermeulen.com/uploads/Research/StylianidisVermeulenHoubenMacDonaldBeale_chi-lbw2017.pdf](http://jovermeulen.com/uploads/Research/StylianidisVermeulenHoubenMacDonaldBeale_chi-lbw2017.pdf)
