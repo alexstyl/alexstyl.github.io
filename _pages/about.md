@@ -7,7 +7,7 @@ permalink: /about.html
 author_profile: true
 ---
 
-Alex Styl (short for Alexandros Stylianidis) is a Software Craftsman based in London, UK. Currently, a proud member of the awesome [Novoda](https://www.novoda.com) team.
+Alex Styl (short for Alexandros Stylianidis) is a Product Designer based in London, UK. Currently, a proud member of the awesome [Novoda](https://www.novoda.com) team.
 
 I have a great interest in human-computer interactions and how we can create interactions that enhance our everyday lives. In 2014, I studied how people use technology and researched new ways of improving it in the [University of Birmingham](http://www.birmingham.ac.uk/index.aspx), where I graduated with a MSc in Human-Computer Interactions.
 
