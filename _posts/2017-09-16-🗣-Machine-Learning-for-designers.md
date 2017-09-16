@@ -1,4 +1,4 @@
-Interested in Machine Learning from a design point of view? I will be giving a talk in Design Lab London on Wednesday, September 20, 2017. See you there!
+Interested in Machine Learning from a design point of view? I will be giving a talk in Design Lab London on **Wednesday, September 20, 2017**. See you there!
 
 ![Design Lab](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/design_lab.png)
 
