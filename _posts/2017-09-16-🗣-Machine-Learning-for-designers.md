@@ -1,6 +1,6 @@
 Interested in Machine Learning from a design point of view? I will be giving a talk in **Design Lab** London in **Google Campus** on **Wednesday, September 20, 2017**. See you there!
 
-[**Register on Meetup.com**](https://www.meetup.com/DesignLabLondon/events/242923245/)
+[**Register on Eventbrite.com**](https://www.eventbrite.com/e/design-lab-london-6-tickets-37418385398)
 
 ### Abstract
 
