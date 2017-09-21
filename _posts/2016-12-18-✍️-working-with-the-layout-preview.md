@@ -2,7 +2,8 @@ Isn't it annoying when trying to create an Android layout, but the Layout Previe
 
 Fear not, as I wrote a blog post exactly for that! Make sure to head over to [the Novoda blog](https://www.novoda.com/blog/layout-preview-101/) to check it out.
 
-![Android's Layout Preview](https://www.novoda.com/blog/content/images/2016/11/Screen-Shot-2016-11-01-at-12-01-45.png)
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.novoda.com/blog/layout-preview-101/">Working with the Layout Preview</a></h4><p>Android Studio comes with a powerful tool that helps you understand how your layout files are going to be rendered on the user's device. As powerful as this tool can be, it can lead to some misleading errors driving the developer crazy. This post talks about how to get the</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Special thanks go to [Sebastiano Poggi](https://www.novoda.com/blog/author/seb/), [Daniele Conti](https://www.novoda.com/blog/author/fourlastor/) and [Daniele Bonaldo](https://www.novoda.com/blog/author/daniele/) for all their help writing the article.
 
