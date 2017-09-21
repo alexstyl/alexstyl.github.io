@@ -6,4 +6,4 @@ You can find the talk here (in Greek):
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8iRThrBQYyk?rel=0&amp;start=240" frameborder="0" allowfullscreen></iframe>
 
-</br>the slides are also available on [speakerdeck.com](https://speakerdeck.com/alexstyl/improving-play-store-ratings-without-any-design-or-code)
+the slides are also available on [speakerdeck.com](https://speakerdeck.com/alexstyl/improving-play-store-ratings-without-any-design-or-code)
