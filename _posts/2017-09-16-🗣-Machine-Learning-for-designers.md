@@ -1,6 +1,4 @@
-Interested in Machine Learning from a design point of view? I will be giving a talk in **Design Lab** London in **Google Campus** on **Wednesday, September 20, 2017**. See you there!
-
-[**Register on Eventbrite.com**](https://www.eventbrite.com/e/design-lab-london-6-tickets-37418385398)
+Interested in Machine Learning from a design point of view? I gave a talk in **Design Lab** London in **Google Campus** on **Wednesday, September 20, 2017**. 
 
 ### Abstract
 
@@ -10,3 +8,7 @@ In this talk, Alex will go through a human explanation of what Machine Learning 
 
 [![Design Lab](https://raw.githubusercontent.com/alexstyl/alexstyl.github.io/master/images/design_lab.png)](https://www.meetup.com/DesignLabLondon/events/242923245/)
 
+### Watch the talk
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Alex Styl - Machine Learning for designers <a href="https://t.co/BsqCSHukL5">https://t.co/BsqCSHukL5</a></p>&mdash; Design Lab Meetup (@DesignLabMeetup) <a href="https://twitter.com/DesignLabMeetup/status/910570354011021312">September 20, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
