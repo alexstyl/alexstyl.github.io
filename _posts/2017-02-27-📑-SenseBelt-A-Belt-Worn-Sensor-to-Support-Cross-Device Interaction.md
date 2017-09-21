@@ -11,4 +11,4 @@ Mobile interaction is shifting from a single device to simultaneous interaction 
 
 
 
-<p>You can find the full paper in the [ACM Library](http://dl.acm.org/citation.cfm?id=3053135&CFID=757515530&CFTOKEN=78922586)  or [you can read it directly by clicking here](http://jovermeulen.com/uploads/Research/StylianidisVermeulenHoubenMacDonaldBeale_chi-lbw2017.pdf)</p>.
+</br>You can find the full paper in the [ACM Library](http://dl.acm.org/citation.cfm?id=3053135&CFID=757515530&CFTOKEN=78922586)  or [you can read it directly by clicking here](http://jovermeulen.com/uploads/Research/StylianidisVermeulenHoubenMacDonaldBeale_chi-lbw2017.pdf).
