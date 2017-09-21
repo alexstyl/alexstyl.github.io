@@ -1,0 +1,4 @@
+My esteemed colleague Flo and I recently worked on a television guide bot using api.ai + Amazon's AWS backend service to experiment with the capabilities of Voice User Interfaces (VUI). In this blog post I’ve covered the design process we followed to enable voice interfaces in an existing product and how we used api.ai to build natural dialogues.
+
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://www.novoda.com/blog/designing-vuis/">Building natural dialogues for your voice assistant</a></h4><p>My esteemed colleague Flo and I recently worked on a television guide bot using api.ai + Amazon's AWS backend service to experiment with the capabilities of Voice User Interfaces (VUI). In this blog post I've covered the design process we followed to enable voice interfaces in an existing product</p></blockquote>
+<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
