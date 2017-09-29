@@ -1,4 +1,4 @@
-Let's have a chat about agnostic driven development. I'll be giving a talk for the **GDG Android Athens** meetup in **The Cube** on **Wednesday, October 11, 2017**.
+Let's have a chat about platform-agnostic code. I'll be giving a talk for the **GDG Android Athens** meetup in **The Cube** on **Wednesday, October 11, 2017**.
 
 [**Register on Meetup.com**](https://www.meetup.com/GDG-Android-Athens/events/243355431/)
 
