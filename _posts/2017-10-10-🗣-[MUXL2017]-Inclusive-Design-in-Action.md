@@ -1,4 +1,4 @@
-Let's have a chat about platform-agnostic code. I'll be doing a workshop for the **MUXL2017** conference in **London** on **Friday, November 10, 2017**. You can find more information on [the official muxl 2017 website](https://mobileuxlondon.com/muxl2017/)
+I will be doing a workshop for the **MUXL2017** conference in **London** on **Friday, November 10, 2017**. You can find more information on [the official muxl 2017 website](https://mobileuxlondon.com/muxl2017/)
 
 
 ### Abstract
