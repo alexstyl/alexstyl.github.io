@@ -4,5 +4,6 @@ In this talk, Alex will go through a human explanation of what Machine Learning 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jA8tD7lvSaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
 
 This talk was part of **Design Lab** London in **Google Campus** on **Wednesday, September 20, 2017**. Find more info about the event at [https://www.meetup.com/DesignLabLondon/events/242923245/](https://www.meetup.com/DesignLabLondon/events/242923245/)
